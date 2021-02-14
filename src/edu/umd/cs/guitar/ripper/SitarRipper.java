@@ -80,6 +80,7 @@ public class SitarRipper extends SitarExecutor {
 	 * 
 	 * @see SitarRunner
 	 */
+	
 	public SitarRipper(SitarRipperConfiguration config) {
 		this(config, Thread.currentThread());
 	}
